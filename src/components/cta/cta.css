@@ -10,6 +10,10 @@
   background: var(--gradient-bar);
 }
 
+.gpt3__cta:hover {
+  box-shadow: 0px 0px 50px rgba(200, 200, 200, 0.307);
+}
+
 .gpt3__cta-content {
   /* display: flex;
   flex-direction: column;
