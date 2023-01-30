@@ -4,14 +4,14 @@ import "./App.css";
 
 // components
 import Navbar from "./components/navbar/Navbar";
-import Header from "./conrainers/header/Header";
+import Header from "./containers/header/Header";
 import Brand from "./components/brand/Brand";
-import WhatGPT3 from "./conrainers/whatGPT3/WhatGPT3";
-import Features from "./conrainers/features/Features";
-import Possibilities from "./conrainers/possibility/Possibilities";
+import WhatGPT3 from "./containers/whatGPT3/WhatGPT3";
+import Features from "./containers/features/Features";
+import Possibilities from "./containers/possibility/Possibilities";
 import CTA from "./components/cta/CTA";
-import Blog from "./conrainers/blog/Blog";
-import Footer from "./conrainers/footer/Footer";
+import Blog from "./containers/blog/Blog";
+import Footer from "./containers/footer/Footer";
 
 const App = () => {
   return (
